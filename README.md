@@ -159,6 +159,7 @@ Store owners are created by admins and have a store assigned to them. They canno
 ---
 
 ## Project Structure
+```bash
 store-rating-platform/
 │
 ├── backend/                          # Express.js REST API
