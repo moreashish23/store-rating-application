@@ -276,7 +276,7 @@ You will also need a free **Neon PostgreSQL** database:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/store-rating-platform.git](https://github.com/moreashish23/store-rating-application
+git clone https://github.com/moreashish23/store-rating-application]
 cd store-rating-platform
 ```
 
